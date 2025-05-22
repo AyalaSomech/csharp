@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC51A45D-B4D4-4417-86B3-D0295FD76EA1}|BLL\\BLL.csproj|c:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\new\\project_a\\bll\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC51A45D-B4D4-4417-86B3-D0295FD76EA1}|BLL\\BLL.csproj|solutionrelative:bll\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC51A45D-B4D4-4417-86B3-D0295FD76EA1}|BLL\\BLL.csproj|c:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\new\\project_a\\bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC51A45D-B4D4-4417-86B3-D0295FD76EA1}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC51A45D-B4D4-4417-86B3-D0295FD76EA1}|BLL\\BLL.csproj|c:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\new\\project_a\\bll\\interface\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC51A45D-B4D4-4417-86B3-D0295FD76EA1}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC51A45D-B4D4-4417-86B3-D0295FD76EA1}|BLL\\BLL.csproj|c:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\new\\project_a\\bll\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC51A45D-B4D4-4417-86B3-D0295FD76EA1}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C070BC3F-3E37-4417-A639-9DFB01719D46}|Project_A\\Project_A.csproj|c:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\new\\project_a\\project_a\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C070BC3F-3E37-4417-A639-9DFB01719D46}|Project_A\\Project_A.csproj|solutionrelative:project_a\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C070BC3F-3E37-4417-A639-9DFB01719D46}|Project_A\\Project_A.csproj|c:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\new\\project_a\\project_a\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C070BC3F-3E37-4417-A639-9DFB01719D46}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C070BC3F-3E37-4417-A639-9DFB01719D46}|Project_A\\Project_A.csproj|c:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\new\\project_a\\project_a\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C070BC3F-3E37-4417-A639-9DFB01719D46}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C070BC3F-3E37-4417-A639-9DFB01719D46}|Project_A\\Project_A.csproj|c:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\new\\project_a\\project_a\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C070BC3F-3E37-4417-A639-9DFB01719D46}|Project_A\\Project_A.csproj|solutionrelative:project_a\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C070BC3F-3E37-4417-A639-9DFB01719D46}|Project_A\\Project_A.csproj|c:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\new\\project_a\\project_a\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C070BC3F-3E37-4417-A639-9DFB01719D46}|Project_A\\Project_A.csproj|solutionrelative:project_a\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC51A45D-B4D4-4417-86B3-D0295FD76EA1}|BLL\\BLL.csproj|c:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\new\\project_a\\bll\\interface\\iimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC51A45D-B4D4-4417-86B3-D0295FD76EA1}|BLL\\BLL.csproj|solutionrelative:bll\\interface\\iimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC51A45D-B4D4-4417-86B3-D0295FD76EA1}|BLL\\BLL.csproj|c:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\new\\project_a\\bll\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC51A45D-B4D4-4417-86B3-D0295FD76EA1}|BLL\\BLL.csproj|solutionrelative:bll\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9718BBE-C059-4755-A8AC-17301BFC1CDA}|DAL\\DAL.csproj|c:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\new\\project_a\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9718BBE-C059-4755-A8AC-17301BFC1CDA}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C070BC3F-3E37-4417-A639-9DFB01719D46}|Project_A\\Project_A.csproj|c:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\new\\project_a\\project_a\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C070BC3F-3E37-4417-A639-9DFB01719D46}|Project_A\\Project_A.csproj|solutionrelative:project_a\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC51A45D-B4D4-4417-86B3-D0295FD76EA1}|BLL\\BLL.csproj|c:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\new\\project_a\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC51A45D-B4D4-4417-86B3-D0295FD76EA1}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\c#\\\u05D8\u05D9\u05D5\u05D8\u05D0\\projectc#_A\\MyPhoto_A_c-\\WebApplication1\\BLL\\Services\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\c#\\\u05D8\u05D9\u05D5\u05D8\u05D0\\projectc#_A\\MyPhoto_A_c-\\WebApplication1\\BLL\\Services\\ImageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\c#\\\u05D8\u05D9\u05D5\u05D8\u05D0\\projectc#_A\\MyPhoto_A_c-\\WebApplication1\\BLL\\Interfaces\\IImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\c#\\\u05D8\u05D9\u05D5\u05D8\u05D0\\projectc#_A\\MyPhoto_A_c-\\WebApplication1\\BLL\\Interfaces\\Iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\c#\\Project_A\\DAL\\DBContext\\InsertImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\BLL\\Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\IEmailService.cs",
+              "ToolTip": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\BLL\\Interface\\IEmailService.cs",
+              "RelativeToolTip": "BLL\\Interface\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:24:23.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\BLL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderService.cs",
+              "ToolTip": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\BLL\\Services\\OrderService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwDsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:14:31.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\BLL\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\EmailService.cs",
+              "ToolTip": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\BLL\\Services\\EmailService.cs",
+              "RelativeToolTip": "BLL\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:47:57.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrder.cs",
+              "DocumentMoniker": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\BLL\\Interface\\IOrder.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\IOrder.cs",
+              "ToolTip": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\BLL\\Interface\\IOrder.cs",
+              "RelativeToolTip": "BLL\\Interface\\IOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:25:45.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\Project_A\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\Project_A\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Project_A\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T08:25:46.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\Project_A\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\Project_A\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Project_A\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T08:25:46.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\Project_A\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project_A\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\Project_A\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project_A\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T08:25:46.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\Project_A\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Project_A\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\Project_A\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Project_A\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T08:25:46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\Project_A\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Project_A\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\Project_A\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Project_A\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:25:46.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IImage.cs",
+              "DocumentMoniker": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\BLL\\Interface\\IImage.cs",
+              "RelativeDocumentMoniker": "BLL\\Interface\\IImage.cs",
+              "ToolTip": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\BLL\\Interface\\IImage.cs",
+              "RelativeToolTip": "BLL\\Interface\\IImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:25:45.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\BLL\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ImageService.cs",
+              "ToolTip": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\BLL\\Services\\ImageService.cs",
+              "RelativeToolTip": "BLL\\Services\\ImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:25:45.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:25:46.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAH0SAAAAAAAAAAAQwMYTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-12T19:36:53.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\Project_A\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "Project_A\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\Project_A\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "Project_A\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-03-12T19:55:19.51Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\aaa\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\new\\Project_A\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T08:25:46.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Iorder.cs",
+              "DocumentMoniker": "H:\\c#\\\u05D8\u05D9\u05D5\u05D8\u05D0\\projectc#_A\\MyPhoto_A_c-\\WebApplication1\\BLL\\Interfaces\\Iorder.cs",
+              "ToolTip": "H:\\c#\\\u05D8\u05D9\u05D5\u05D8\u05D0\\projectc#_A\\MyPhoto_A_c-\\WebApplication1\\BLL\\Interfaces\\Iorder.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:11:56.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InsertImage.cs",
+              "DocumentMoniker": "H:\\c#\\Project_A\\DAL\\DBContext\\InsertImage.cs",
+              "ToolTip": "H:\\c#\\Project_A\\DAL\\DBContext\\InsertImage.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:38:25.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "H:\\c#\\\u05D8\u05D9\u05D5\u05D8\u05D0\\projectc#_A\\MyPhoto_A_c-\\WebApplication1\\BLL\\Services\\ImageService.cs",
+              "ToolTip": "H:\\c#\\\u05D8\u05D9\u05D5\u05D8\u05D0\\projectc#_A\\MyPhoto_A_c-\\WebApplication1\\BLL\\Services\\ImageService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:27:03.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "H:\\c#\\\u05D8\u05D9\u05D5\u05D8\u05D0\\projectc#_A\\MyPhoto_A_c-\\WebApplication1\\BLL\\Services\\OrderService.cs",
+              "ToolTip": "H:\\c#\\\u05D8\u05D9\u05D5\u05D8\u05D0\\projectc#_A\\MyPhoto_A_c-\\WebApplication1\\BLL\\Services\\OrderService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:28:25.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IImage.cs",
+              "DocumentMoniker": "H:\\c#\\\u05D8\u05D9\u05D5\u05D8\u05D0\\projectc#_A\\MyPhoto_A_c-\\WebApplication1\\BLL\\Interfaces\\IImage.cs",
+              "ToolTip": "H:\\c#\\\u05D8\u05D9\u05D5\u05D8\u05D0\\projectc#_A\\MyPhoto_A_c-\\WebApplication1\\BLL\\Interfaces\\IImage.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:11:56.346Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿
+<head>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<button id="startOrderButton" onclick="startOrder()">Start Order</button>
+
+<div id="sizePopup" style="display:none;">
+    <h2>Select Size</h2>
+    <button onclick="setSize(1)">Small</button>
+    <button onclick="setSize(2)">Medium</button>
+    <button onclick="setSize(3)">Large</button>
+    <button onclick="closePopup()">Cancel</button>
+</div>
+
+@* <button id="Submit" onclick="startOrder()">Submit</button> *@
+
+<input id="name" placeholder="Name" style="display:none;"/>
+<input id="phon" placeholder="Phone" style="display:none;" />
+<input id="id" placeholder="User ID" style="display:none;" />
+<input id="email" placeholder="Email" style="display:none;" />
+
+<p id="selectedSize"></p>
+<button id="selectSize" onclick="UserDetails(id)" style="display:none;">selec tSize</button>
+
+
+ @* <Button id="sendEmailButton" onclick="SendEmail()">send email </Button> *@
